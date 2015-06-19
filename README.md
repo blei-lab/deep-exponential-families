@@ -2,6 +2,15 @@
 Deep Approximating Family
 ==========================
 
+Reference
+---------
+
+[Deep Exponential Families](https://github.com/Blei-Lab/Publications/blob/master/2015_RanganathTangCharlinBlei/2015_RanganathTangCharlinBlei.pdf)
+by Rajesh Ranganath, Linpeng Tang, Laurent Charlin, and David M. Blei, AISTATS 2015.
+
+
+Abstract
+
 Requirements
 ------------
 
@@ -69,3 +78,4 @@ Topic visualization
 
 We show some of the tools that we have used to explore the def fits in this
 [DEF IPython Notebook](http://nbviewer.ipython.org/github/Blei-Lab/deep_exponential_families/blob/master/wikipedia/def_wikipedia_visualization.ipynb).
+
