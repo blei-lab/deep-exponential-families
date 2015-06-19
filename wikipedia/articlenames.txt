@@ -1,0 +1,2000 @@
+12:  Anarchism
+25:  Autism
+39:  Albedo
+259:  ArgumentForms
+290:  A
+303:  Alabama
+305:  Achilles
+307:  Abraham Lincoln
+308:  Aristotle
+309:  An American in Paris
+324:  Academy Award
+330:  Actrius
+332:  Animalia (book)
+334:  International Atomic Time
+336:  Altruism
+339:  Ayn Rand
+340:  Alain Connes
+344:  Allan Dwan
+358:  Algeria
+359:  List of characters in Atlas Shrugged
+368:  Things in Atlas Shrugged
+569:  Anthropology
+572:  Agricultural science
+573:  Alchemy
+576:  Austria
+579:  Alien
+580:  Astronomer
+584:  Amoeboid
+586:  ASCII
+590:  Austin (disambiguation)
+593:  Animation
+594:  Apollo
+595:  Andre Agassi
+597:  Austro-Asiatic languages
+599:  Afro-Asiatic languages
+600:  Andorra
+612:  Arithmetic mean
+615:  American Football Conference
+616:  Applied Mathematics
+618:  AnEnquiryConcerningHumanUnderstanding
+621:  Amphibian
+624:  Alaska
+625:  Architecture (disambiguation)
+627:  Agriculture
+628:  Aldous Huxley
+630:  Ada
+632:  Aberdeen (disambiguation)
+633:  Algae
+634:  Analysis of variance
+639:  Alkane
+640:  Appeal
+642:  Answer
+643:  Appellate court
+649:  Arraignment
+651:  America the Beautiful
+652:  Artificial language
+653:  Assistive technology
+655:  Abacus
+656:  Acid
+657:  Asphalt
+659:  American National Standards Institute
+661:  Argument (disambiguation)
+662:  Apollo 11
+663:  Apollo 8
+664:  Astronaut
+665:  A Modest Proposal
+666:  Alkali metal
+668:  Argument form
+670:  Alphabet
+673:  Atomic number
+674:  Anatomy
+675:  Affirming the consequent
+676:  Andrei Tarkovsky
+677:  Ambiguity
+679:  Animal (disambiguation)
+680:  Aardvark
+681:  Aardwolf
+682:  Adobe
+683:  Adventure
+684:  Agatho
+689:  Asia
+690:  Aruba
+691:  Articles of Confederation
+696:  Aa River
+698:  Atlantic Ocean
+700:  Arthur Schopenhauer
+701:  Angola
+704:  Demographics of Angola
+705:  Politics of Angola
+706:  Economy of Angola
+708:  Transport in Angola
+709:  Angolan Armed Forces
+710:  Foreign relations of Angola
+711:  Albert Sidney Johnston
+713:  Android
+717:  Alberta
+718:  Arctic Circle
+728:  List of anthropologists
+734:  Actinopterygii
+736:  Albert Einstein
+737:  Afghanistan
+738:  Albania
+740:  Allah
+746:  Azerbaijan
+748:  Amateur astronomy
+751:  Aikido
+752:  Art
+753:  Actor
+764:  Agnostida
+765:  Abortion
+766:  Abstract (law)
+768:  AOLamer
+772:  Ampere
+775:  Algorithm
+777:  Annual plant
+779:  Anthophyta
+780:  Atlas (disambiguation)
+782:  Mouthwash
+783:  Alexander the Great
+784:  Alfred Korzybski
+785:  Asteroids (video game)
+786:  Asparagales
+787:  Alismatales
+788:  Apiales
+789:  Asterales
+791:  Asteroid
+794:  Allocution
+795:  Affidavit
+798:  Aries (constellation)
+799:  Aquarius (constellation)
+800:  Anime
+801:  Asterism
+802:  Ankara
+803:  Arabic language
+808:  Alfred Hitchcock
+809:  Anaconda
+822:  Afghanistan (1911 Encyclopedia)
+825:  Austrian German
+839:  Anglican Church
+841:  Attila the Hun
+842:  Aegean Sea
+843:  A Clockwork Orange
+844:  Amsterdam
+846:  Museum of Work
+848:  Audi
+849:  Aircraft
+851:  Alfred Nobel
+852:  Alexander Graham Bell
+854:  Anatolia
+856:  Apple Inc.
+857:  Aberdeenshire
+859:  Aztlan Underground
+863:  American Civil War
+864:  Andy Warhol
+865:  AmeriKKKa's Most Wanted
+868:  Alp Arslan
+869:  American Film Institute
+872:  Akira Kurosawa
+873:  Ancient civilization
+874:  Ancient Egypt
+875:  Analog Brothers
+876:  Motor neurone disease
+877:  Abjad
+878:  Abugida
+880:  ABBA
+881:  Allegiance
+882:  Absolute majority
+883:  Afrika Islam
+885:  Altenberg
+887:  Apple Newton
+888:  A. E. van Vogt
+890:  Anna Kournikova
+892:  Alfons Maria Jakob
+894:  Agnosticism
+896:  Argon
+897:  Arsenic
+898:  Antimony
+899:  Actinium
+900:  Americium
+901:  Astatine
+902:  Atom
+903:  Arable land
+904:  Aluminium
+905:  Advanced Chemistry
+909:  Anglican Communion
+910:  Arne Kaijser
+911:  Archipelago
+914:  Author
+915:  Andrey Markov
+917:  Anders Jonas Angstrom
+921:  Angst
+922:  Anxiety
+924:  A. A. Milne
+925:  Alumni Athletic Club
+927:  Addiction
+928:  Axiom
+929:  Alpha (letter)
+930:  Alvin Toffler
+931:  The Amazing Spider-Man (comic book)
+933:  AM
+951:  Antigua and Barbuda
+953:  Azincourt
+954:  Albert Speer
+955:  Alliaceae
+956:  Asteraceae
+957:  Apiaceae
+958:  Axon
+960:  Aramaic alphabet
+966:  American shot
+967:  Acute disseminated encephalomyelitis
+969:  Ataxia
+972:  Abdul Alhazred
+974:  Ada Lovelace
+980:  August Derleth
+981:  Alps
+983:  Albert Camus
+984:  Agatha Christie
+986:  The Plague
+988:  Applied ethics
+991:  Absolute value
+993:  Analog signal
+994:  Arecales
+1000:  Hercule Poirot
+1002:  Miss Marple
+1004:  April
+1005:  August
+1006:  Aaron
+1008:  April 6
+1009:  April 12
+1010:  April 15
+1011:  April 30
+1012:  August 22
+1013:  August 27
+1014:  Alcohol
+1016:  Achill Island
+1017:  Allen Ginsberg
+1018:  Algebraically closed field
+1019:  August 6
+1020:  Anatoly Karpov
+1021:  Aspect ratio
+1022:  Auto racing
+1023:  Anarcho-capitalism
+1027:  August 9
+1028:  Aristophanes
+1029:  Albert Schweitzer
+1030:  Austrian School
+1032:  Abscess
+1034:  Ancient Pueblo Peoples
+1036:  Aalborg Municipality
+1038:  Aarhus
+1043:  Northern cavefish
+1046:  Abatement
+1049:  Amateur
+1051:  Alexis Carrel
+1053:  Amateur Radio
+1057:  Anatole France
+1058:  André Gide
+1063:  Algorithms for calculating variance
+1064:  Almond
+1078:  Antisemitism
+1109:  Geography of American Samoa
+1110:  Demographics of American Samoa
+1111:  Politics of American Samoa
+1112:  Economy of American Samoa
+1114:  Transport in American Samoa
+1129:  August 13
+1130:  Avicenna
+1132:  The Ashes
+1134:  Analysis
+1135:  Abner Doubleday
+1140:  Amplitude modulation
+1141:  Augustin-Jean Fresnel
+1143:  Abbot
+1144:  Ardipithecus
+1146:  Assembly line
+1148:  Adelaide
+1152:  Alan Garner
+1154:  August 2
+1155:  Atlantic (disambiguation)
+1158:  Algebraic number
+1160:  Automorphism
+1162:  Accordion
+1164:  Artificial intelligence
+1166:  Afro Celt Sound System
+1167:  Ancient philosophy
+1168:  Anaximander
+1169:  APL
+1170:  Architect
+1171:  Abbreviation
+1174:  Aphrodite
+1175:  April 1
+1176:  Antisymmetric relation
+1177:  Aleister Crowley
+1178:  Afterlife
+1181:  Astrometry
+1182:  Athena
+1183:  Amber Diceless Roleplaying Game
+1184:  Athene (disambiguation)
+1187:  Alloy
+1189:  Articles of Faith
+1190:  Alternative history
+1192:  Artistic revolution
+1193:  Agrarianism
+1194:  Atomic
+1196:  Angle
+1197:  Asa
+1198:  Acoustics
+1200:  Atomic physics
+1201:  American Sign Language
+1202:  Applet
+1203:  Alternate history
+1206:  Atomic orbital
+1207:  Amino acid
+1208:  Alan Turing
+1209:  Area
+1210:  Astronomical unit
+1212:  Artist
+1213:  Actaeon
+1214:  Anglicanism
+1215:  Airplane (disambiguation)
+1216:  Athens
+1217:  Anguilla
+1227:  Ashmore and Cartier Islands
+1234:  Acoustic theory
+1235:  Alexander Mackenzie
+1239:  Ashoka the Great
+1241:  American (word)
+1242:  Ada (programming language)
+1246:  Alfonso Arau
+1247:  Alfonso Cuarón
+1252:  Arianism
+1254:  August 1
+1255:  Astronomical Units
+1259:  August 3
+1260:  Advanced Encryption Standard
+1261:  April 26
+1262:  Argot
+1264:  Anisotropy
+1267:  Alpha decay
+1270:  Extreme poverty
+1271:  Analytical engine
+1273:  Augustus
+1274:  Geography of Antarctica
+1276:  Economy of Antarctica
+1279:  Transport in Antarctica
+1285:  Geography of Alabama
+1286:  List of Governors of Alabama
+1288:  Apocrypha
+1291:  Antarctic Treaty System
+1293:  Alfred Lawson
+1298:  Ames, Iowa
+1300:  Abalone
+1301:  Abbess
+1302:  Human abdomen
+1303:  Abdominal surgery
+1304:  Abduction
+1305:  Abensberg
+1306:  Arminianism
+1307:  The Alan Parsons Project
+1309:  Almost all
+1311:  Ada Byron's notes on the analytical engine
+1312:  Augustine
+1313:  Aromatic hydrocarbon
+1315:  Abbey
+1316:  Annales School
+1317:  Antimatter
+1322:  Casa Batlló
+1324:  Park Güell
+1325:  Casa Milà
+1327:  Antiparticle
+1331:  Arabian Prince
+1332:  August 7
+1333:  August 8
+1334:  April 16
+1335:  Associativity
+1336:  Apache Software Foundation
+1338:  Americans with Disabilities Act of 1990
+1344:  Apple I
+1346:  Apatosaurus
+1347:  Allosaurus
+1348:  AK-47
+1349:  Atanasoff–Berry Computer
+1353:  Andrew (disambiguation)
+1354:  Andes
+1355:  Anderida
+1358:  Anchor
+1359:  Anbar (town)
+1360:  Anazarbus
+1361:  Anagram
+1362:  Anadyr River
+1363:  André-Marie Ampère
+1365:  Ammonia
+1366:  Amethyst
+1367:  Albertosaurus
+1368:  Assembly language
+1369:  Ambrosia
+1370:  Ambrose
+1371:  Ambracia
+1372:  Amber
+1373:  Amalaric
+1374:  Alphorn
+1376:  Army
+1380:  Alligatoridae
+1381:  Aleutian Islands
+1383:  Alder
+1384:  Amos Bronson Alcott
+1386:  Arachnophobia
+1387:  Alabaster
+1388:  Apostle
+1389:  Ahab
+1391:  ASIC (disambiguation)
+1392:  Dasyproctidae
+1393:  Æesop
+1395:  Amazing Grace
+1397:  AOL
+1400:  Anno Domini
+1404:  AV
+1406:  Amino group
+1408:  Alcuin
+1409:  Angilbert
+1412:  Amine
+1416:  April 29
+1417:  August 14
+1418:  Absolute zero
+1419:  Adiabatic process
+1422:  Amide
+1423:  Animism
+1425:  Antonio Vivaldi
+1428:  Adrian
+1433:  Aar
+1435:  Abbotsford House
+1436:  Abraham
+1437:  Abraxas
+1438:  Absalom
+1439:  Abydos
+1440:  Abydos, Egypt
+1441:  Abydos, Hellespont
+1442:  August 15
+1444:  Abu al-Fida
+1445:  Acacia
+1446:  Acapulco
+1447:  Adriatic Sea
+1448:  August 16
+1449:  Alan Kay
+1451:  APL (programming language)
+1453:  ALGOL
+1456:  AWK
+1460:  Asgard
+1461:  Apollo program
+1466:  Assault
+1478:  Álfheimr
+1482:  Ask and Embla
+1484:  Alabama River
+1485:  Alain de Lille
+1486:  Alamanni
+1487:  Aland Islands
+1490:  August 17
+1491:  August 12
+1494:  Alfred Russel Wallace
+1495:  Australian Labor Party
+1496:  August 18
+1497:  August 19
+1499:  August 21
+1500:  Dodo (Alice's Adventures in Wonderland)
+1501:  Lory (disambiguation)
+1502:  Eaglet (Alice's Adventures in Wonderland)
+1504:  Albert
+1505:  Albert I
+1506:  Albert II
+1507:  Albert III
+1508:  Albert Alcibiades, Margrave of Brandenburg-Kulmbach
+1509:  Albert the Bear
+1513:  Albert of Mainz
+1514:  Albert, Duke of Prussia
+1515:  Albert III, Elector of Saxony
+1519:  August 25
+1520:  Aachen
+1523:  Agate
+1525:  Aspirin
+1526:  Abner
+1527:  Ahmed I
+1528:  Ahmed II
+1529:  Ahmed III
+1530:  Ainu people
+1536:  Acropolis
+1537:  Acupuncture
+1538:  Adder
+1540:  Aeneas
+1541:  April 13
+1542:  Amaranth
+1543:  Agapanthus africanus
+1544:  Agamemnon
+1545:  Aga Khan I
+1546:  Aga Khan III
+1547:  Agasias
+1548:  Alexander Emanuel Agassiz
+1549:  Agathon
+1550:  Agesilaus II
+1551:  Agis
+1552:  Antonio Agliardi
+1553:  Agnes of Merania
+1554:  Agni
+1556:  Agrippina the Elder
+1557:  Agrippina the Younger
+1558:  American Chinese cuisine
+1559:  Ahenobarbus
+1560:  Ahmad Shah Durrani
+1563:  Arthur Aikin
+1564:  Ailanthus
+1565:  Aimoin
+1566:  Akkadian Empire
+1567:  Ajax the Lesser
+1568:  Ajax (mythology)
+1569:  Ajax
+1570:  Alaric I
+1571:  Alaric II
+1573:  Albertus Magnus
+1575:  Alboin
+1576:  Afonso de Albuquerque
+1577:  Alcaeus of Mytilene
+1578:  Alcamenes
+1579:  Alcmene
+1580:  Alcidamas
+1581:  Aldine Press
+1583:  Aldred
+1585:  Alexander I of Epirus
+1586:  Alexander Balas
+1587:  Alexander of Pherae
+1588:  Alexander II of Epirus
+1589:  Alexander Jagiellon
+1590:  Alexander I of Russia
+1591:  Alexander II of Russia
+1592:  Alexander III of Russia
+1593:  Alexander I of Scotland
+1594:  Alexander II of Scotland
+1595:  Alexander I of Serbia
+1596:  Alexander III of Scotland
+1597:  Alexander of Greece
+1599:  Alexander of Aphrodisias
+1600:  Alexander Severus
+1601:  Alexander
+1602:  Alexander I
+1603:  Alexander II
+1604:  Alexander III
+1605:  Alexander Aetolus
+1606:  Alexander Jannaeus
+1607:  Alexander IV
+1610:  Alexander VII
+1611:  Alexander VIII
+1612:  Alexandrists
+1613:  Alexios I Komnenos
+1614:  Alexis
+1615:  Alexios II Komnenos
+1616:  Alexios III Angelos
+1617:  Alexios V Doukas
+1620:  Alexei Petrovich, Tsarevich of Russia
+1623:  Andrew Jackson
+1624:  Andrew Johnson
+1625:  Aleksandr Solzhenitsyn
+1627:  Aberdeen
+1628:  August 23
+1629:  August 24
+1633:  Antipope
+1634:  Aquaculture
+1635:  Kolmogorov complexity
+1637:  Hymn to Proserpine
+1638:  The Triumph of Time
+1639:  April 28
+1640:  Alfred the Great
+1642:  Alessandro Algardi
+1643:  Alger of Liège
+1644:  Algiers
+1645:  Ibn al-Haytham
+1647:  Alessandro Allori
+1649:  Almoravid dynasty
+1650:  Aloe
+1652:  Alyattes II
+1653:  Age of consent
+1654:  Alypius of Antioch
+1655:  Amalasuntha
+1656:  Amalric of Bena
+1657:  Afonso I of Portugal
+1658:  Afonso II of Portugal
+1659:  Afonso III of Portugal
+1660:  Afonso IV of Portugal
+1661:  Afonso V of Portugal
+1662:  Afonso VI of Portugal
+1663:  Alphonso I of Spain
+1664:  Alfonso II of Asturias
+1665:  Alphonso III of Spain
+1667:  Alphonso IV of Spain
+1669:  Amara Sinha
+1676:  Alfonso XII of Spain
+1677:  Alfonso XIII of Spain
+1679:  Alfonso the Battler
+1680:  Amaryllis
+1683:  Alfonso III of Aragon
+1684:  Alfonso IV of Aragon
+1685:  Amasis II
+1686:  Alfonso V of Aragon
+1687:  Amathus
+1688:  Alfonso
+1689:  Alfonso I
+1690:  Amati
+1691:  Alfonso II
+1692:  Alfonso III
+1694:  Alfonso IV
+1695:  Amazons
+1696:  Alfonso V
+1697:  Ambergris
+1698:  Ambiorix
+1699:  Alfonso VI
+1700:  August Wilhelm Ambros
+1701:  Amazon River
+1702:  Alured of Beverley
+1710:  April 22
+1711:  August 31
+1714:  Autpert Ambrose
+1715:  Abu Bakr
+1716:  Ambrose the Camaldulian
+1717:  Ambrosians
+1718:  Ambrosiaster
+1719:  Ambrosius Aurelianus
+1722:  Ammon
+1723:  Ammonius Hermiae
+1724:  Ammonius Saccas
+1725:  Amorites
+1727:  Amphipolis
+1728:  Amram
+1729:  Amyntas I of Macedon
+1730:  Amyntas III of Macedon
+1732:  Anacharsis
+1734:  Anah
+1735:  Ananda
+1736:  Ananias
+1738:  Anaxarchus
+1740:  Ancyra (genus)
+1742:  Anastasius I
+1743:  Anastasius II
+1746:  Anaximenes of Lampsacus
+1747:  Anastasius
+1748:  Anaximenes of Miletus
+1749:  Ancus Marcius
+1750:  Andaman Islands
+1751:  Alexander Anderson (mathematician)
+1752:  Andocides
+1754:  Andrea Andreani
+1755:  Andrew II of Hungary
+1756:  An Enquiry concerning Human Understanding
+1758:  André de Longjumeau
+1759:  Andriscus
+1760:  Andronikos III Palaiologos
+1761:  Andronikos II Palaiologos
+1762:  Andronikos I Komnenos
+1763:  Andronicus of Cyrrhus
+1764:  Andronicus of Rhodes
+1765:  Andronicus
+1767:  Ammianus Marcellinus
+1769:  An Enquiry Concerning Human Understanding/Text
+1773:  Apollo 7
+1774:  Apollo 9
+1776:  Arthritis
+1777:  April 2
+1778:  Acetylene
+1779:  Alfred
+1781:  August 28
+1783:  Aisha
+1784:  Athenian democracy
+1786:  Arabic numerals
+1787:  April 9
+1788:  ABM
+1789:  Apuleius
+1790:  Alexander Selkirk
+1791:  Anti-ballistic missile
+1793:  August 29
+1794:  August 30
+1797:  Acre
+1799:  ATP
+1800:  Adenosine triphosphate
+1802:  Ægir
+1805:  Antibiotic
+1806:  Arnold Schwarzenegger
+1807:  ASA
+1810:  Actium
+1812:  Amway
+1814:  Adam Smith
+1822:  Antoine Lavoisier
+1825:  Adolph Wilhelm Hermann Kolbe
+1826:  April 18
+1827:  April 23
+1828:  Amitabh Bachchan
+1830:  Air Pollution
+1832:  Allomorph
+1834:  Allophone
+1835:  Affix
+1837:  Allegory
+1839:  Allotropy
+1840:  Agathocles
+1841:  Economy of Alberta
+1842:  Augustin Louis Cauchy
+1844:  Archimedes
+1845:  Alternative medicine
+1847:  Archimedean solid
+1851:  Antiprism
+1853:  Ecology of Africa
+1854:  Geography of Africa
+1857:  Approval voting
+1859:  Arizona State University
+1862:  April 14
+1864:  Astoria, Oregon
+1866:  Alarums and Excursions
+1869:  Alfred Jarry
+1870:  Amalric
+1871:  Amalric I of Jerusalem
+1872:  Amalric II of Jerusalem
+1873:  Anthemius of Tralles
+1874:  Absalon
+1875:  Adhemar of Le Puy
+1876:  Adhemar de Chabannes
+1878:  Alfonso, Count of Poitou
+1879:  Alfonso Jordan
+1880:  Ambroise
+1881:  Art Deco
+1884:  ASCII art
+1887:  Alexius
+1890:  American English
+1893:  Albert Spalding
+1894:  Africa Alphabet
+1896:  Acquire
+1897:  Australian English
+1898:  ANZAC (disambiguation)
+1902:  American Airlines Flight 77
+1905:  Ambush
+1908:  Abzyme
+1909:  Adaptive radiation
+1910:  Agarose gel electrophoresis
+1911:  Allele
+1912:  Ampicillin
+1913:  Annealing
+1914:  Antibiotic resistance
+1915:  Antigen
+1916:  Autosome
+1919:  Antwerp (disambiguation)
+1920:  Aquila
+1921:  Al-Qaeda
+1923:  Alessandro Volta
+1924:  Argo Navis
+1925:  Andromeda (mythology)
+1926:  Antlia
+1927:  Ara (constellation)
+1928:  Auriga
+1930:  Arkansas
+1931:  Atmosphere (disambiguation)
+1933:  Apus
+1934:  Abadan
+1935:  Attorney
+1937:  Alexander Fleming
+1938:  Andrew Carnegie
+1939:  Approximant consonant
+1940:  Astronomer Royal
+1941:  Aeon
+1942:  Airline
+1943:  Australian Democrats
+1944:  Australian Capital Territory
+1945:  Animaniacs
+1946:  Unit of alcohol
+1947:  Aotus
+1948:  Ally McBeal
+1949:  Andreas Capellanus
+1950:  American Civil Liberties Union
+1951:  Aslan
+1952:  AT bus architecture
+1957:  Alexander Technique
+1960:  Andrea Alciato
+1961:  Arizona
+1962:  Apparent magnitude
+1963:  Absolute magnitude
+1965:  Apollo 1
+1966:  Apollo 10
+1967:  Apollo 12
+1968:  Apollo 14
+1969:  Apollo 15
+1970:  Apollo 16
+1971:  Apollo 17
+1973:  American Revolution
+1974:  April 17
+1975:  Alan Ayckbourn
+1976:  Adamnan
+1979:  Alpha Centauri
+1980:  Amiga
+1981:  Asbestos
+1985:  Absorption
+1986:  Actinophryid
+1988:  Abel Tasman
+1990:  August 5
+1991:  Angula
+1994:  ASP
+1997:  Algebraic geometry
+1998:  Austin, Texas
+2003:  Argument from morality
+2004:  ASL
+2006:  Auschwitz concentration camp
+2007:  Archery
+2009:  Alvar Aalto
+2011:  American and British English differences
+2014:  Atomic semantics
+2015:  Antarctic Circumpolar Current
+2017:  Arbor Day
+2018:  Alfred Ayer
+2019:  André Weil
+2020:  Achaeans
+2021:  Atle Selberg
+2023:  Aeschylus
+2024:  Amber Road
+2025:  Atlantic Baptist University
+2026:  American Telephone &amp; Telegraph
+2027:  Andrew Wiles
+2028:  Ambient
+2029:  Anne Brontë
+2030:  Augustine of Hippo
+2032:  Acting
+2037:  Delian League
+2038:  August Horch
+2039:  Avionics
+2041:  Ares
+2042:  Alexander Grothendieck
+2047:  Alcoholics Anonymous
+2049:  Alpha compositing
+2052:  Array
+2053:  Advance Australia Fair
+2057:  Aikidoka
+2061:  Automatic number announcement circuit
+2062:  Amerigo Vespucci
+2063:  Aristide Maillol
+2064:  Antonio Canova
+2065:  Auguste Rodin
+2067:  Ann Arbor, Michigan
+2070:  Act of Settlement 1701
+2075:  Aircraft hijacking
+2076:  Acropolis of Athens
+2077:  Adam Weishaupt
+2078:  Acorn Electron
+2080:  A Fire Upon the Deep
+2082:  Aeronautics
+2083:  Auguste and Louis Lumière
+2084:  Acts of the Apostles
+2085:  Assyria
+2086:  Abijah
+2087:  Ark
+2088:  Aphasia
+2089:  Aorta
+2093:  Abimelech
+2094:  Anomalous cognition
+2099:  Andrew Tridgell
+2100:  Applesoft BASIC
+2101:  Asterix
+2102:  Arizona Cardinals
+2103:  Atlanta Falcons
+2104:  Ásatrú
+2106:  Ansible
+2108:  Adalbert of Prague
+2110:  Alphege
+2112:  Associative algebra
+2113:  Axiom of regularity
+2114:  IBM AIX (operating system)
+2115:  AppleTalk
+2116:  Apple II series
+2117:  Apple III
+2118:  AVL tree
+2120:  Aliphatic compound
+2122:  Astrology
+2123:  Abyssinia
+2125:  Algebraic extension
+2126:  Ani DiFranco
+2127:  Arene (disambiguation)
+2129:  Arizona Diamondbacks
+2130:  Aesthetics
+2134:  Ark of the Covenant
+2136:  Angles
+2137:  Aster CT-80
+2138:  Arthur Wellesley
+2139:  List of animated television series
+2140:  Atlanta Braves
+2141:  Atari ST
+2142:  List of artificial intelligence projects
+2144:  Aaliyah
+2147:  Armour
+2148:  Armoured fighting vehicle
+2151:  Anton Drexler
+2152:  All Quiet on the Western Front
+2153:  Academic elitism
+2154:  African American
+2161:  Artistic License
+2162:  Afrikaans
+2163:  Aeolus
+2164:  Autrefois convict
+2166:  ABC
+2167:  Alford plea
+2170:  ABCD
+2171:  Anti-realism
+2174:  Arsenal F.C.
+2175:  Cuisine of the United States
+2176:  Ahmad Shah Massoud
+2178:  Atlantis
+2179:  Autobiography
+2180:  Arcadius
+2185:  Arab
+2186:  Armadillo
+2187:  Antisemitism in the Arab world
+2192:  August 11
+2193:  Arcology
+2194:  April 5
+2195:  April 20
+2196:  April 19
+2197:  Amstrad CPC
+2198:  Abdulaziz al-Omari
+2199:  Anselm of Canterbury
+2201:  Aage Niels Bohr
+2202:  Analytic geometry
+2203:  Religious denominations in Poland
+2204:  Arabic alphabet
+2207:  Angels in art
+2208:  Arctic Fox
+2209:  Anglo-Saxon (disambiguation)
+2210:  Folklore of the United States
+2215:  Sid Meier's Alpha Centauri
+2216:  Abu Sayyaf
+2217:  Armenian language
+2218:  Additive synthesis
+2219:  Aircraft carrier
+2221:  Apicomplexa
+2222:  Cuisine of Argentina
+2224:  April 8
+2226:  Ad hominem
+2227:  A fortiori
+2230:  Analysis of algorithms
+2233:  Ælle of Sussex
+2234:  Atari
+2235:  Afghan
+2236:  Acadia University
+2237:  Steel-string acoustic guitar
+2238:  Antipope John XXIII
+2241:  Antonio Salieri
+2242:  Activism
+2243:  Atomic clock
+2244:  Cobble Hill Tunnel
+2245:  Annapolis Valley
+2246:  Analgesic
+2250:  Abiotic stress
+2251:  Accusative case
+2257:  Apostolic Succession
+2259:  Alex
+2264:  Anglo-Saxon monarchs
+2268:  Ascorbic acid
+2273:  AFC Ajax
+2274:  Arthur Stanley Eddington
+2279:  April 3
+2282:  Alexis Korner
+2284:  Assault gun
+2286:  Tank destroyer
+2287:  Armored car (military)
+2288:  Self-propelled anti-aircraft weapon
+2289:  AZ (football club)
+2290:  Autochthones
+2296:  Adrenal gland
+2299:  American Media (publisher)
+2303:  Aramaic language
+2304:  Titus (Biblical)
+2308:  Actinoid
+2310:  Arthur Miller
+2313:  Anton Diabelli
+2314:  Anita Hill
+2315:  August 10
+2316:  Audio file format
+2319:  Antipope Victor IV
+2321:  Area 51
+2322:  Audio signal processing
+2323:  Amdahl's law
+2326:  April 27
+2328:  Ayahuasca
+2330:  Abbe number
+2331:  ACN
+2332:  AD (disambiguation)
+2333:  Ablative case
+2335:  Adamic language
+2338:  Rise and Fall of the City of Mahagonny
+2339:  Avery Hopwood
+2340:  Antipope Felix II
+2341:  Alkaloid
+2343:  Adventism
+2345:  Archbishop of Canterbury
+2346:  Albion, Michigan
+2348:  Anointing of the Sick
+2349:  Abstract data type
+2356:  List of architecture topics
+2357:  American Football League
+2358:  A.S. Roma
+2362:  Antibody
+2363:  Alessandro Scarlatti
+2368:  Anglo-Saxon Chronicle
+2369:  Aston Martin
+2371:  Albert Pike
+2372:  ALF Tales
+2376:  Abdul Rashid Dostum
+2377:  Andhra Pradesh
+2379:  Asymmetrical relationship
+2381:  Andreas Aagesen
+2382:  Aalen
+2383:  Alois Alzheimer
+2384:  Aedile
+2386:  American Airlines
+2388:  Antidepressant
+2389:  Auger effect
+2391:  Akio Morita
+2392:  Anode
+2393:  Analog television
+2395:  April 11
+2396:  Adhesive
+2397:  Anthony Hopkins
+2398:  Ardal O'Hanlon
+2399:  Application programming interface
+2400:  Advanced Micro Devices
+2402:  Albrecht Dürer
+2403:  Australian rules football
+2405:  Aon Corporation
+2406:  Alban Berg
+2408:  Analytical chemistry
+2409:  Agricultural engineering
+2411:  A cappella
+2412:  Augmentation
+2416:  Athanasian Creed
+2417:  Alicante
+2418:  August 4
+2421:  Albrecht Achilles
+2422:  Ann Widdecombe
+2425:  Aurangzeb
+2427:  Alexandrine
+2428:  Analog computer
+2429:  Audio
+2431:  Minute of arc
+2433:  Alberto Giacometti
+2434:  Aristotles theory of universals
+2439:  Anthem
+2440:  Albrecht Altdorfer
+2441:  House of Ascania
+2442:  Arthropod
+2443:  Acceleration
+2444:  Conservation-restoration
+2447:  Anton Chekhov
+2448:  Action Against Hunger
+2452:  AW
+2457:  Apoptosis
+2459:  Appomattox
+2460:  Anal sex
+2466:  Aarau
+2467:  Aargau
+2470:  Aba
+2471:  Ababda
+2472:  American Quarter Horse
+2473:  Abacá
+2474:  Abaddon
+2475:  Abadeh
+2476:  Abae
+2477:  Abakan
+2478:  Abana River
+2482:  Arc de Triomphe
+2483:  April 21
+2484:  ATM
+2487:  Amazonite
+2490:  Ambrosius Bosschaert
+2493:  Anthroposophy
+2494:  Aurochs
+2499:  Asynchronous Transfer Mode
+2500:  Anus
+2501:  Appendix
+2502:  Acantharea
+2503:  African National Congress
+2504:  Amphetamine
+2506:  Asynchronous communication
+2508:  Artillery
+2510:  Arnulf of Carinthia
+2511:  Alexanderplatz
+2512:  Asian Development Bank
+2514:  Aswan
+2519:  Adelaide of Italy
+2520:  Addition of natural numbers
+2524:  Airbus A300
+2526:  Agostino Carracci
+2528:  Adenylate cyclase
+2529:  Alexandra
+2536:  Articolo 31
+2539:  Aromatherapy
+2543:  Alexander Kerensky
+2544:  Ansgar
+2546:  Automated theorem proving
+2547:  Agent Orange
+2551:  Astronomical year numbering
+2552:  Adam of Bremen
+2553:  Ab urbe condita
+2558:  ARY Group
+2559:  Arapawa Island
+2560:  Administrative law
+2563:  Arthur Phillip
+2564:  April 10
+2573:  Angus
+2574:  Apache (disambiguation)
+2575:  André the Giant
+2577:  Adrastea (moon)
+2578:  Amalthea
+2580:  Ananke
+2581:  Apache HTTP Server
+2582:  Alph
+2583:  Arbroath Abbey
+2593:  Accountancy
+2594:  Ant
+2597:  Arbitration in the United States of America
+2598:  Adversarial system
+2599:  Aa
+2602:  Abano Terme
+2605:  Abati
+2606:  Abatis
+2607:  Antoine Thomson d'Abbadie
+2608:  Abba Mari
+2609:  Abbas II of Egypt
+2610:  Abbas Mirza
+2613:  George Abbot (archbishop)
+2616:  Adware
+2618:  Aeacus
+2619:  Aeclanum
+2620:  Aedesius
+2621:  Aedicula
+2622:  Aedui
+2623:  Aegadian Islands
+2624:  Aegean civilization
+2626:  Aegeus
+2627:  Aegina
+2628:  Aegis
+2629:  Aegisthus
+2630:  Aegospotami
+2632:  Aelia Capitolina
+2633:  Aelian
+2634:  Aelianus Tacticus
+2637:  Atomic absorption spectroscopy
+2639:  Arthur St. Clair
+2640:  Ajaccio
+2641:  Ajaigarh
+2642:  Ajanta Caves
+2645:  Ajmer
+2646:  Ajmer-Merwara
+2654:  Abatement of debts and legacies
+2661:  Affection
+2662:  Affiliation
+2663:  Affinity
+2665:  Affray
+2667:  Afghan Turkestan
+2668:  Afyonkarahisar
+2670:  Abba Arika
+2671:  Abbahu
+2673:  Abbreviator
+2674:  Abd-el-latif
+2675:  Abd-ar-rahman
+2676:  Abd ar-Rahman I
+2677:  Abd ar-Rahman II
+2678:  Abd-ar-Rahman III
+2679:  Abd ar-Rahman IV
+2680:  Abd ar-Rahman V
+2681:  Abdülaziz
+2684:  Abdera, Spain
+2685:  Abdera, Thrace
+2686:  Apollos
+2687:  Acquis communautaire
+2688:  Air engine
+2690:  Antidiarrhoeal
+2691:  Áed of Scotland
+2692:  Abdul Hamid I
+2695:  Abdur Rahman Khan
+2696:  Abencerrages
+2699:  Aberavon (UK Parliament constituency)
+2700:  Abercarn
+2701:  Aberdare
+2702:  Aberration
+2703:  Aberration of light
+2704:  Optical aberration
+2705:  Amy Grant
+2707:  Arthur William à Beckett
+2709:  Aberdeen, South Dakota
+2710:  Au
+2712:  Aberdour
+2714:  Aberfoyle, Stirling
+2715:  Abergavenny
+2716:  Abersychan
+2717:  Abertillery
+2719:  Abettor
+2722:  Anders Celsius
+2723:  Adam Carolla
+2724:  Autocorrelation
+2726:  Atlas Autocode
+2728:  Aberfan disaster
+2732:  Au file format
+2733:  April 25
+2734:  April 24
+2735:  April 7
+2736:  Andalusia
+2738:  Abhidharma
+2739:  Abhorrers
+2740:  Abiathar
+2741:  Abigail
+2742:  Abila
+2745:  Azad Kashmir
+2747:  Arabian Sea
+2749:  Aria Giovanni
+2752:  Aspartame
+2753:  AutoCAD
+2754:  AutoCAD DXF
+2756:  Asexual reproduction
+2758:  Aelbert Cuyp
+2761:  Alkene
+2762:  Allene
+2763:  Alkyne
+2764:  AbiWord
+2766:  Ames test
+2767:  ACE inhibitor
+2769:  Antianginal
+2770:  Anatomical Therapeutic Chemical Classification System
+2771:  Air conditioner
+2778:  AT Attachment
+2779:  Atari 2600
+2780:  Atari 5200
+2781:  Atari 7800
+2782:  Atari Jaguar
+2783:  Atari Lynx
+2784:  Ahimsa
+2785:  Annals of Mathematics
+2786:  Andrei Sakharov
+2787:  Astrobiology
+2790:  Air show
+2792:  Anthropic principle
+2795:  Australian Army
+2799:  American Registry for Internet Numbers
+2802:  Akihabara
+2807:  Active Directory
+2809:  Arian
+2810:  Aldona of Lithuania
+2812:  Aron Nimzowitsch
+2813:  Aragonese language
+2815:  Advanced Mobile Phone System
+2819:  Aerodynamics
+2820:  Andreas Schlüter
+2822:  Ash
+2823:  Antiderivative
+2824:  Alphabet song
+2826:  Antigonid dynasty
+2827:  Abingdon
+2828:  Abipones
+2830:  Abjuration
+2833:  Abitibi
+2834:  A Vindication of the Rights of Woman
+2835:  Afghan Hound
+2836:  Azawakh
+2838:  Acrylic paint
+2839:  Angular momentum
+2840:  Plum pudding model
+2844:  Atomic theory
+2846:  Ai
+2847:  Aung San Suu Kyi
+2849:  Armenian alphabet
+2851:  Abraham Joshua Heschel
+2853:  Aberdeen Bestiary
+2856:  Latin American Integration Association
+2858:  Aircraft spotting
+2861:  Advertising
+2862:  AI-complete
+2864:  Archaeoastronomy
+2865:  Andrzej Sapkowski
+2866:  Ammeter
+2868:  Amanda Hesser
+2869:  Anxiolytic
+2870:  Antipsychotic
+2871:  Akita
+2875:  Archduke Charles, Duke of Teschen
+2877:  Augustine of Canterbury
+2881:  Alexander of Hales
+2883:  Active Server Pages
+2885:  Amoxicillin
+2889:  Amorphous solid
+2890:  A Wizard of Earthsea
+2893:  Alex Lifeson
+2894:  AZ
+2899:  ArgoUML
+2900:  File archiver
+2905:  Artemis
+2906:  Arbeit macht frei
+2907:  Axayacatl
+2908:  Ahuitzotl
+2909:  Albinism
+2911:  Amr Diab
+2914:  African rap in France
+2916:  Belgian hip hop
+2917:  Dutch hip hop
+2919:  Anaïs Nin
+2920:  AIM
+2923:  AOL Instant Messenger
+2925:  Ackermann function
+2927:  Albanians
+2928:  Association for Computing Machinery
+2934:  Anabaptist
+2935:  ANS
+2936:  Alaska Panhandle
+2939:  Alaska Interior
+2940:  And did those feet in ancient time
+2941:  The Bush (Alaska)
+2942:  A Little Night Music
+2943:  Dual wield
+2944:  Ariel Sharon
+2945:  Affectional orientation
+2947:  Anoa
+2948:  Agner Krarup Erlang
+2950:  Anyone Can Whistle
+2952:  Alcopop
+2955:  Alkali
+2956:  Ain't I a Woman? (book)
+2957:  AMOS (programming language)
+2959:  Arcadia 2001
+2961:  Convex uniform honeycomb
+2963:  Assassination
+2964:  Audio CD
+2965:  Alcoholism
+2972:  Abstraction
+2974:  Abelian group
+2975:  Anti-Ballistic Missile Treaty
+2983:  Austria–Hungary
+2986:  Abracadabra
+2987:  Acts of Union 1707
+2988:  Admiralty
+2991:  Amphibian (disambiguation)
+2992:  Amputation
+2994:  Anemometer
+2995:  Archaeopteryx
+2997:  Apeiron (cosmology)
+2999:  Arthur Laurents
+3000:  A.D. Police
+3003:  Adrian Lamo
+3004:  Associate Justice of the Supreme Court of the United States
+3010:  Alan Jay Lerner
+3012:  Al Capp
+3013:  Ann Druyan
+3014:  Analcime
+3017:  Alexey Pajitnov
+3018:  Alternative hip hop
+3019:  `Abdu'l-Bahá
+3020:  Ambrose of Alexandria
+3022:  Autonomous building
+3027:  Anubis
+3029:  Arthur Jensen
+3032:  A Funny Thing Happened on the Way to the Forum
+3033:  Antenna theory
+3035:  Alaska Native Claims Settlement Act
+3036:  Adoptionism
+3037:  Apollinarism
+3038:  Acid–base reaction
+3040:  Abu al-Faraj al-Isfahani
+3043:  Alcobaça
+3044:  Amphisbaena
+3045:  Amyl alcohol
+3046:  Amyl nitrite
+3049:  Autumn
+3052:  Alameda, California
+3054:  Alpha helix
+3055:  Accrington
+3057:  April, May and June Duck
+3058:  Armageddon
+3060:  Athlon
+3065:  Amnon
+3067:  Amu Darya
+3068:  Islamic conquest of Afghanistan
+3070:  Durrani Empire
+3071:  Aimak
+3072:  Arcturus
+3074:  Androphagi
+3075:  Albert Brooks
+3076:  Antares
+3077:  Aldebaran
+3078:  Altair
+3079:  Australian Broadcasting Corporation
+3080:  Alexandria
+3082:  Alexandria, Indiana
+3083:  Alexandria, Louisiana
+3085:  Alexandria Troas
+3087:  Alexandria, West Dunbartonshire
+3088:  Alexandria, Romania
+3089:  Angela Vincent
+3090:  Arithmetic-geometric mean
+3092:  Akira Toriyama
+3093:  Epsilon Ursae Majoris
+3095:  Amiga 500
+3100:  AGA
+3104:  Amiga 1000
+3107:  Asymptote
+3110:  Andrew S. Tanenbaum
+3111:  Ariane 5
+3112:  Arianespace
+3114:  Amiga 500+
+3116:  Accumulator (computing)
+3117:  Abu Zubaydah
+3118:  Arithmetic
+3120:  Andersonville, Georgia
+3121:  Andersonville
+3122:  Agra Canal
+3123:  Amakusa
+3124:  Afterglow
+3125:  Ammonius Grammaticus
+3129:  Algebraic closure
+3130:  Advanced Power Management
+3132:  Adolphe Sax
+3134:  Aspiration (phonetics)
+3135:  Arteriovenous malformation
+3138:  Atlanta, Georgia
+3143:  Axiology
+3144:  A Doll's House
+3146:  AIM-7 Sparrow
+3147:  AIM-120 AMRAAM
+3149:  AGM-88 HARM
+3151:  AGM-65 Maverick
+3152:  AIM-54 Phoenix
+3155:  Lockheed AC-130
+3158:  Alternative
+3160:  Alternative algebra
+3161:  Akira
+3162:  Arbitrage
+3165:  ACF Fiorentina
+3168:  Afrobeat
+3170:  Arithmetic function
+3172:  ANSI C
+3173:  Alien and Sedition Acts
+3175:  Antinomy
+3189:  Ascending chain condition
+3192:  Adin Steinsaltz
+3196:  Alexander Rutskoy
+3198:  Alfred Edward Housman
+3201:  Attribution of recent climate change
+3203:  Achduart
+3204:  Achiltibuie
+3205:  Adaptive expectations
+3209:  Mexican tetra
+3211:  Atom probe
+3212:  Al Capone
+3214:  Amplifier
+3217:  Army of Darkness
+3218:  ASROC
+3221:  Ahmed al-Nami
+3222:  Ahmed al-Haznawi
+3224:  Agglutinative language
+3225:  Athanasius of Alexandria
+3226:  Azores
+3229:  Outback
+3230:  Atomic weight
+3231:  Absolute Infinite
+3233:  Acceptance testing
+3235:  Albert Frederick, Duke of Prussia
+3236:  Ansbach
+3237:  National Alliance (Italy)
+3238:  Arno (disambiguation)
+3240:  Arno River
+3244:  Aveiro
+3246:  Anthony the Great
+3250:  Amblypoda
+3251:  Amblygonite
+3252:  Amygdalin
+3253:  Running amok
+3255:  Apostles' Creed
+3259:  Amicable number
+3261:  Aryan
+3262:  Agar
+3263:  Acid rain
+3266:  Acephali
+3269:  Anthony of Saxony
+3270:  Albert, Duke of Saxony
+3271:  Authoritarianism
+3273:  Arlo Guthrie
+3275:  Book of Alma
+3277:  Antioxidant
+3292:  Brass
+3295:  Bonn
+3332:  Ballroom dance
+3333:  The Birth of a Nation
+3335:  Baltic Sea
+3336:  Brackish water
+3338:  The Bronx
+3340:  BearShare
+3343:  Belgium
+3344:  BASIC (disambiguation)
+3347:  BLM
+3352:  Blues
+3353:  Bluegrass
+3354:  Berlin
+3355:  Benjamin Lee Whorf
+3356:  Bill Clinton
+3358:  Black letter law
+3359:  Blue law
+3360:  Bar
+3363:  Beer
+3364:  Bit
+3365:  Byte
+3370:  Boron nitride
+3371:  Bach (disambiguation)
+3374:  Blood on the Tracks
+3375:  &quot;Love and Theft&quot;
+3376:  The Beverly Hillbillies
+3378:  Beryllium
+3381:  Brooke Burke
+3382:  Britney Spears
+3383:  Brazil
+3385:  Black Forest
+3386:  Black Sea
+3390:  Bible
+3392:  British Columbia
+3395:  Gautama Buddha
+3397:  Bridge
+3398:  Beadwork
+3401:  Board game
+3402:  Bead
+3403:  Bead weaving
+3406:  Branchiopoda
+3408:  Baruch Spinoza
+3409:  Being
+3410:  Bird
+3411:  ...Baby One More Time
+3412:  Burn card
+3415:  Bulgaria
+3416:  Bryozoa
+3417:  Biennial plant
+3419:  Bay leaf
+3421:  Basis
+3422:  Burgess Shale
+3427:  Beavis and Butt-head
+3428:  Bromeliales
+3429:  Brassicales
+3430:  Bulletin board system
+3433:  Blindness
+3435:  String Quartet No. 16 (Beethoven)
+3436:  Symphony No. 9 (Beethoven)
+3437:  Piano Trios Nos. 1 - 3, Opus 1 (Beethoven)
+3438:  Piano Trios Nos. 5 - 6, Opus 70 (Beethoven)
+3439:  Piano Trio No. 7 (Beethoven)
+3441:  Violin Sonata No. 5 (Beethoven)
+3443:  Barratry
+3446:  Bomber
+3447:  Cue sports
+3449:  Big Dipper (disambiguation)
+3450:  Bursa
+3451:  The Bahamas
+3453:  Baker Island
+3454:  Bangladesh
+3455:  Barbados
+3456:  Bassas da India
+3457:  Belarus
+3458:  Belize
+3459:  Benin
+3460:  Bermuda
+3462:  Bolivia
+3463:  Bosnia and Herzegovina
+3464:  Botswana
+3466:  Brunei
+3469:  British Virgin Islands
+3470:  Burkina Faso
+3477:  Economy of the Bahamas
+3514:  Government of Barbados
+3522:  Geography of Bassas da India
+3533:  Government of Belarus
+3535:  Communications in Belarus
+3536:  Transport in Belarus
+3537:  Armed Forces of Belarus
+3538:  Foreign relations of Belarus
+3545:  Communications in Belgium
+3546:  Transport in Belgium
+3565:  Economy of Benin
+3583:  Economy of Bhutan
+3589:  Lhop
+3600:  Blindness in literature
+3604:  Geography of Bosnia and Herzegovina
+3605:  Demographics of Bosnia and Herzegovina
+3606:  Politics of Bosnia and Herzegovina
+3607:  Economy of Bosnia and Herzegovina
+3609:  Transport in Bosnia and Herzegovina
+3610:  Military of Bosnia and Herzegovina
+3611:  Foreign relations of Bosnia and Herzegovina
+3613:  Geography of Botswana
+3614:  Demographics of Botswana
+3615:  Politics of Botswana
+3616:  Economy of Botswana
+3617:  Communications in Botswana
+3618:  Transport in Botswana
+3620:  Foreign relations of Botswana
+3631:  Geography of Brazil
+3633:  Politics of Brazil
+3634:  Economy of Brazil
+3635:  Communications in Brazil
+3636:  Transport in Brazil
+3637:  Brazilian Armed Forces
+3638:  Foreign relations of Brazil
+3649:  Geography of the British Virgin Islands
+3650:  Demographics of the British Virgin Islands
+3652:  Economy of the British Virgin Islands
+3653:  Communications on the British Virgin Islands
+3654:  Transport in the British Virgin Islands
+3658:  Geography of Brunei
+3661:  Economy of Brunei
+3662:  Communications in Brunei
+3663:  Transport in Brunei
+3665:  Foreign relations of Brunei
+3668:  Geography of Bulgaria
+3670:  Politics of Bulgaria
+3671:  Economy of Bulgaria
+3672:  Communications in Bulgaria
+3673:  Transport in Bulgaria
+3674:  Military of Bulgaria
+3677:  Geography of Burkina Faso
+3678:  Demographics of Burkina Faso
+3679:  Politics of Burkina Faso
+3680:  Economy of Burkina Faso
+3681:  Communications in Burkina Faso
+3682:  Transport in Burkina Faso
+3683:  Military of Burkina Faso
+3684:  Foreign relations of Burkina Faso
+3695:  Geography of Burundi
+3696:  Demographics of Burundi
+3697:  Politics of Burundi
+3698:  Economy of Burundi
+3699:  Communications in Burundi
+3700:  Transport in Burundi
+3701:  Military of Burundi
+3702:  Foreign relations of Burundi
+3705:  Bosporus
+3708:  Brussels
+3710:  BE
+3711:  Bell
+3712:  Bell Labs
+3713:  Bjarne Stroustrup
+3714:  BSD (disambiguation)
+3717:  Brain
+3719:  Byzantium
+3721:  Biotic
+3722:  Berlin Wall
+3726:  Breakdance
+3727:  Bass (music)
+3728:  Bass music
+3730:  Battle of Adrianople (disambiguation)
+3731:  Beacon
+3733:  Bhangra
+3735:  Beastie Boys
+3736:  British Isles
+3738:  Basque language
+3740:  Björn Ulvaeus
+3741:  Benny Andersson
+3742:  Bluetooth
+3743:  Bluetooth Special Interest Group
+3744:  Boney M.
+3745:  Britain
+3746:  Blade Runner
+3747:  Bill Gates
+3748:  Bourbon
+3751:  Belgian Blue
+3754:  Bertolt Brecht
+3755:  Boron
+3756:  Bromine
+3757:  Barium
+3758:  Berkelium
+3760:  Bauxite
+3762:  Bundesland
+3764:  Bavaria
+3765:  Brandenburg
+3767:  Federal Chancellor
+3769:  Bundesrat
+3772:  BMW
+3774:  Bisexual (disambiguation)
+3775:  Boston
+3777:  Bay (disambiguation)
+3778:  Book
+3779:  B-52 (disambiguation)
+3780:  Bal Thackeray
+3783:  B
+3784:  BSE
+3785:  Bille August
+3788:  Body
+3789:  Bitola
+3791:  Bryan McLean
+3794:  Brassicaceae
+3796:  Books of the Bible
+3797:  Baseball statistics
+3800:  At bat
+3801:  Earned run
+3802:  Base on balls
+3805:  Total bases
+3806:  Hit by pitch
+3807:  Hit (baseball)
+3808:  On-base percentage
+3809:  Sacrifice fly
+3810:  On-base plus slugging
+3811:  Stolen base
+3812:  Plate appearance
+3814:  Games played
+3817:  Boogie Down Productions
+3819:  Babel fish
+3821:  Binary-coded decimal
+3822:  BCD
+3823:  Binary
+3826:  Bumin Khan
+3827:  Bilge Kağan
+3832:  Bauhaus
+3833:  Beowulf
+3836:  Barb Wire
+3837:  Blazing Saddles
+3838:  Bruce Sterling
+3840:  Brain abscess
+3841:  Bud Spencer
+3843:  Bisexuality
+3845:  Brigitte Bardot
+3846:  Banjo
+3850:  Baseball
+3851:  Baseball positions
+3856:  History of baseball in the United States
+3858:  Major League Baseball Most Valuable Player Award
+3859:  Major League Baseball Rookie of the Year Award
+3860:  National League Championship Series
+3861:  American League Championship Series
+3862:  American League Division Series
+3863:  National League Division Series
+3864:  2001 World Series
+3865:  1903 World Series
+3866:  Bluetongue disease
+3869:  Bruce Perens
+3870:  Bundle theory
+3873:  Bernard Montgomery, 1st Viscount Montgomery of Alamein
+3874:  Herman Boerhaave
+3875:  Benjamin Disraeli
+3876:  Binomial distribution
+3878:  Biostatistics
+3883:  Lists of people
+3912:  List of major Biblical figures
+3914:  British and Irish Lions
+3916:  Bass guitar
+3921:  Basketball
+3926:  Blowfish (disambiguation)
+3927:  Brian Eno
+3928:  Ball
+3931:  Binary relation
+3933:  Braille
+3936:  Bastille Day
+3940:  Blowfish (cipher)
+3942:  Bijection
+3943:  Binary function
+3947:  Blue Velvet
+3948:  Binary operation
+3950:  Bagpipes
+3952:  Bedrock Records
+3954:  Biochemistry
+3956:  Badminton
+3957:  Baroque
+3959:  Boolean algebra (structure)
+3960:  Banca d'Italia
+3962:  British
+3963:  Beachcomber (Pen name)
+3965:  Bill Joy
+3967:  Bandwidth (signal processing)
+3968:  Bodhisattva
+3969:  Buckingham Palace
+3970:  British Airways
+3973:  Bicycle
+3974:  Biopolymer
+3975:  United Kingdom general election, 2001
+3978:  Book of Mormon
+3979:  Baptist
+3981:  Blackjack
+3982:  Bicarbonate
+3984:  Bernie Federko
+3985:  Buffalo, New York
+3986:  Benjamin Franklin
+3989:  Banach space
+3992:  Bram Stoker
+3993:  Billion
+3995:  Contract bridge
+3996:  Boat
+3997:  Blood
+3999:  Benoît Mandelbrot
+4001:  Benedict of Nursia
+4004:  BSoD (disambiguation)
+4005:  Battle of Pharsalus
+4009:  Bigfoot
+4010:  Bing Crosby
+4011:  Base
+4012:  Basel Convention
+4013:  Bar Kokhba (album)
+4015:  BASIC
+4016:  List of Byzantine Emperors
+4019:  Bismarck (disambiguation)
+4020:  Bomis
+4024:  Butterfly effect
+4027:  Borland
+4031:  Buckminster Fuller
+4032:  Bill Watterson
+4035:  Black
+4036:  Black Flag
+4037:  Bletchley Park
+4038:  Banach Tarski Paradoxical Decomposition
+4041:  Bede
+4045:  Bubble tea
+4049:  Battle of Blenheim
+4050:  Battle of Ramillies
+4051:  Brian Kernighan
+4052:  BCPL
+4054:  Battleship
+4055:  Bifröst
+4057:  Battlecruiser
+4059:  Bob Hawke
+4060:  Baldr
+4061:  Breidablik
+4062:  Bilskirnir
+4063:  Brísingamen
+4064:  Borsuk–Ulam theorem
+4067:  Bragi
+4068:  Blaise Pascal
+4069:  Brythonic languages
+4071:  Bronski Beat
+4073:  Big O
+4074:  Barrel (disambiguation)
+4077:  Binary prefix
+4078:  National Baseball Hall of Fame and Museum
+4079:  BPP
+4080:  BQP
+4081:  Blade Runner 3: Replicant Night
+4082:  Blade Runner 2: The Edge of Human
+4085:  Blog (disambiguation)
+4086:  Brainfuck
+4090:  Binary and
+4091:  Bartolomeo Ammanati
+4092:  Bishop
+4097:  Bordeaux
+4098:  Puzzle Bobble
+4099:  Bone
+4100:  Bretwalda
+4101:  Brouwer fixed point theorem
+4106:  Benzoic acid
+4107:  Boltzmann distribution
+4109:  Leg theory
+4110:  Blythe Danner
+4111:  Bioleaching
+4113:  Bouldering
+4114:  Bowling
+4115:  Boiling point
+4116:  Big Bang
+4119:  Bock
+4121:  Bantu peoples
+4124:  Bantu languages
+4127:  Bearing
+4130:  CIM-10 Bomarc
+4132:  Branco River
+4135:  Wikipedia:Building Wikipedia membership
+4136:  Wikipedia:Building Wikipedia membership/Encyclopedia links solicited
+4137:  Wikipedia:Building Wikipedia membership/Sample solicitation
+4138:  Wikipedia:Building Wikipedia membership/Another sample solicitation
+4139:  Wikipedia:Building Wikipedia membership/Ideas for articles about Wikipedia and other press events
+4140:  Wikipedia:Building Wikipedia membership/Encyclopedia list links solicited
+4141:  Wikipedia:Building Wikipedia membership/Big traffic links solicited
+4142:  Wikipedia:Building Wikipedia membership/About.com
+4143:  Wikipedia:Building Wikipedia membership/Sample solicitation 3
+4144:  Wikipedia:Building Wikipedia membership/Newsgroups
+4146:  Bus
+4147:  Bali
+4149:  Bulgarian language
+4153:  Bipyramid
+4154:  Beast of Bodmin
+4157:  Brown University
+4158:  Bill Atkinson
+4160:  Battle of Lostwithiel
+4162:  Beeb
+4163:  Bertrand Russell
+4165:  Boeing 767
+4166:  Bill Walsh (American football coach)
+4168:  Utility knife
+4169:  Bronze
+4170:  Benelux
+4171:  Boston Herald
+4173:  Babe Ruth
+4177:  Barge
+4178:  Bill Schelter
+4179:  British English
+4181:  Battle
+4182:  Berry Berenson
+4183:  Botany
+4184:  Bacillus thuringiensis
+4185:  Bacteriophage
+4186:  Bacteriostat
+4187:  Bactericide
+4188:  Brion Gysin
+4190:  Bulgarian
+4191:  Bacillus Calmette-Guérin
+4192:  Bunsen
+4193:  Common Buzzard
+4194:  Bohrium
+4195:  Barbara Olson
+4196:  Barnard's Star
+4199:  Bayer designation
+4200:  Boötes
+4203:  Bernardino Ochino
+4204:  Bay of Quinte
+4207:  Bassoon
+4210:  Bipedalism
+4211:  Bootstrapping
+4213:  Baltic languages
+4214:  Bioinformatics
+4216:  Brian De Palma
+4218:  B-25 Mitchell
+4219:  British Open (disambiguation)
+4220:  Bengali language
+4224:  Bobby Charlton
+4226:  Brewsters angle
+4230:  Cell (biology)
+4231:  Buffy the Vampire Slayer (film)
+4232:  Barter
+4233:  Berthe Morisot
+4237:  Barnard College
+4240:  Order of Saint Benedict
+4241:  Bayezid I
+4242:  Bayezid II
+4243:  Boxing
+4246:  Bollywood
+4248:  Bowls
+4249:  Barcelonnette
+4251:  Bahá'í Faith
+4255:  Bubble sort
+4256:  Bavarii
+4257:  Burgundians
+4260:  Dots and Boxes
+4261:  Big Brother (Nineteen Eighty-Four)
+4262:  Bergen (disambiguation)
+4263:  BAB
+4266:  Binary search algorithm
+4267:  Belle &amp; Sebastian
+4279:  Broadcast domain
+4282:  Beechcraft
+4283:  Battle of Peleliu
+4284:  Battle of Stalingrad
+4285:  Bodhidharma
+4286:  Biconditional introduction
+4287:  Biconditional elimination
+4291:  Buddhists
+4293:  Baltimore Ravens
+4294:  British National Party
+4295:  Batavians
+4297:  Believer's baptism
+4298:  Baptism
+4300:  Bocce
+4301:  Beatmatching
+4306:  Beltane
+4309:  Boston, Massachusetts
+4312:  Bethlehem
+4313:  Benjamin
+4314:  Black Sabbath
+4315:  Buffalo Bills
+4318:  Big Dig (Boston, Massachusetts)
+4319:  Books of Chronicles
+4320:  Binary search tree
+4321:  Binary tree
+4322:  Borel measure
+4324:  Banach-Tarski Paradox
+4327:  Boii
+4329:  Backgammon
+4331:  Book of Joshua
+4332:  Book of Ezra
+4333:  Book of Daniel
+4335:  Batman
+4338:  Brythonic
+4340:  Baltimore Orioles
+4342:  Bastarnae
+4343:  Bavarian
+4345:  Bohemia
+4348:  BBC Radio 1
+4349:  BBCi
+4352:  Backplane
+4353:  Baldric
+4356:  Battle of Waterloo
+4359:  Boomerang
+4360:  Bodybuilding
+4361:  Biological warfare
+4362:  Book of Nehemiah
+4363:  Book of Jeremiah
+4364:  Book of Isaiah
+4365:  Bilinear map
+4366:  Blind Blake
+4367:  Brian Lara
+4368:  Beagle
+4371:  Boiled leather
+4373:  Buffer overflow
+4374:  Bug
+4375:  Barry Bonds
+4376:  Book of Numbers
+4377:  Book of Judges
+4378:  Books of Samuel
+4379:  Book of Revelation
+4380:  Books of Kings
