@@ -1,5 +1,5 @@
 
-Deep Approximating Family
+Deep Exponential Family
 ==========================
 
 Reference
