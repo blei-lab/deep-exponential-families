@@ -63,8 +63,12 @@ configuration for the wikipedia dataset is available in
 folder [wikipedia](wikipedia/def_wikipedia_50_25_10.ini). Note that this file will look for the dataset in a directory specified by the WIKIPEDIA_DEF environment variable.
 
 0. Running. Here is an example invocation:
-
-`./build/def_main --v=3 --folder=experiments/def_wikipedia --algo=rmsprop --rho=.2 --samples=64 --max_examples=1000000 --model=wikipedia/def_wikipedia_50_25_10.ini --batch=10000 --batch_order=rand --threads=5 --test_interval=5 --iter=2000`
+```
+cd deep-exponential-families
+# define environment variable used in def_wikipedia_50_25_10.ini
+export WIKIPEDIA_DEF=`pwd`/wikipedia
+./build/def_main --v=3 --folder=experiments/def_wikipedia --algo=rmsprop --rho=.2 --samples=64 --max_examples=1000000 --model=wikipedia/def_wikipedia_50_25_10.ini --batch=10000 --batch_order=rand --threads=5 --test_interval=5 --iter=2000
+```
 
 The above settings (including the values provided in the configuration file)
 are the ones we used in the paper. We have found these settings to be useful
