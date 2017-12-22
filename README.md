@@ -13,7 +13,7 @@ Requirements
 ------------
 
 * armadillo
-* boost
+* boost 1.55
 * OpenMP
 * GSL
 * g++ >= 4.7
