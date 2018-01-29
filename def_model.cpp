@@ -207,9 +207,9 @@ void DEFModel::init() {
     return GET_PRIOR_LAYER(layer_type, options, initializer);
   };
   // sparse prior distribution for obs_weight
-  w_obs_layer = build_prior_layer("DEF_weights");
-  if (ptree.get_child("DEF_weights").get<string>("type") == "exp") {
-    w_obs_layer = build_prior_layer("DEF_weights");
+  w_obs_layer = build_prior_layer("obs_weights");
+  if (ptree.get_child("obs_weights").get<string>("type") == "exp") {
+    w_obs_layer = build_prior_layer("obs_weights");
   }
   else {
     w_obs_layer_b = NULL;
